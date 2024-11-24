@@ -26,6 +26,7 @@ bs-config.js
 !.gitignore
 !/wp-content
 /wp-content/*
+/wp-content/api-endpoint.txt
 !/wp-content/plugins
 /wp-content/plugins/*
 !/wp-content/plugins/nwt-core/
